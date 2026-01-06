@@ -1,0 +1,1 @@
+# rc-qr-code-generator
